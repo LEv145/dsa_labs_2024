@@ -1,0 +1,89 @@
+0: complicated -> do
+1: None
+2: None
+3: silenced
+4: and -> right
+5: None
+6: None
+7: sparse
+8: dense
+9: None
+10: None
+11: None
+12: cases -> good
+13: purity -> be
+14: None
+15: None
+16: None
+17: dutch
+18: None
+19: None
+20: None
+21: there
+22: None
+23: explicitly -> first
+24: None
+25: None
+26: may -> youre -> a
+27: preferably
+28: the -> only
+29: python -> its
+30: None
+31: None
+32: one
+33: by -> implementation -> idea
+34: ugly -> obvious
+35: None
+36: None
+37: nested
+38: None
+39: None
+40: None
+41: bad
+42: beautiful -> special
+43: never
+44: None
+45: honking
+46: None
+47: explain
+48: rules -> are
+49: should -> great
+50: pass
+51: guess
+52: None
+53: None
+54: face
+55: None
+56: than -> flat
+57: arent -> beats
+58: readability -> although -> way
+59: better -> explicit -> not
+60: counts -> break
+61: peters
+62: refuse -> that -> now
+63: errors -> often
+64: zen
+65: hard -> lets
+66: enough
+67: implicit -> if
+68: simple
+69: tim -> complex
+70: None
+71: namespaces
+72: temptation
+73: None
+74: None
+75: in
+76: None
+77: None
+78: silently -> ambiguity
+79: None
+80: is
+81: it
+82: practicality
+83: to
+84: unless -> at
+85: None
+86: those
+87: of -> easy -> more
+88: None
